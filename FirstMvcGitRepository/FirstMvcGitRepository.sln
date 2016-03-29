@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstMvcGitRepository", "FirstMvcGitRepository\FirstMvcGitRepository.csproj", "{910E6E51-011C-480A-9059-42AD3BB6D6B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstMvcGitRepository", "FirstMvcGitRepository\FirstMvcGitRepository.csproj", "{C0F228C7-1C08-49B0-8C3C-6FC7E2BAC346}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{910E6E51-011C-480A-9059-42AD3BB6D6B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{910E6E51-011C-480A-9059-42AD3BB6D6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{910E6E51-011C-480A-9059-42AD3BB6D6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{910E6E51-011C-480A-9059-42AD3BB6D6B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0F228C7-1C08-49B0-8C3C-6FC7E2BAC346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F228C7-1C08-49B0-8C3C-6FC7E2BAC346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F228C7-1C08-49B0-8C3C-6FC7E2BAC346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F228C7-1C08-49B0-8C3C-6FC7E2BAC346}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
