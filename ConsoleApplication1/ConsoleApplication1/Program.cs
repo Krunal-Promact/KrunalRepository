@@ -8,5 +8,10 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("This is first line to beexecuted");
         }
+
+        static int Add(int a,int b)
+        {
+            return a + b;
+        }
     }
 }
